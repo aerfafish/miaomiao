@@ -2,6 +2,7 @@
 **共享资源，仅能用于学习，请勿用于商业。**  
 **Sharing of resources, can only be used for learning, not for business！！！**
 ## 更新日志
+- 2021.11.24 v1.6
 - 2021.09.06 v1.5根据小程序的逻辑，修改了单线程版本的逻辑，使的单线程版本更加符合人为操作。  
              也修改了接口返回的cookie不会覆盖手工录入的cookie bug  
              在单线程版本未能成功抢到之前，不会再更新多线程版本  

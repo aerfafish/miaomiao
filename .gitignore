@@ -16,7 +16,7 @@ target
 *.iml
 dependency-reduced-pom.xml
 # Package Files #
-*.jar
+#*.jar
 *.war
 *.nar
 *.ear
